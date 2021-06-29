@@ -1,2 +1,4 @@
 # TakoyakiSurvey
-A survey form for TalkAboutTakoyaki
+This Is The Survey Form For TalkAboutTakoyaki Made By Kurt
+
+See the working version here:
